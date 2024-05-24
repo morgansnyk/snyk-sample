@@ -20,7 +20,7 @@
     "@xstate/fsm": "^1.6.2",
     "@xstate/react": "^1.6.1",
     "classnames": "^2.3.1",
-    "formidable": "3.2.3"
+    "formidable": "3.5.1"
   },
   "devDependencies": {
     "@babel/core": "^7.15.5",
