@@ -17,7 +17,7 @@
     "check-updates": "npx npm-check-updates -u --target minor"
   },
   "dependencies": {
-    "@xstate/fsm": "^1.6.2",
+    "@xstate/fsm": "^1.6.5",
     "@xstate/react": "^1.6.1",
     "classnames": "^2.3.1",
     "formidable": "3.2.3"
